@@ -12,7 +12,7 @@ La misma lleva un registro de los expedientes judiciales y administrativos de un
 
 
 **LINK REPOSITORIO GITHUB:**
-https://github.com/Agustina-C/PF--Clissa.git
+https://github.com/Agustina-C/PreEntrega3---Clissa
 
 **LINK GITHUB PAGE:**
-https://agustina-c.github.io/PF--Clissa/
+https://agustina-c.github.io/PreEntrega3---Clissa/
